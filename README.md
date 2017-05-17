@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi, 
+
+My name is brian and I'm currently working on web development
